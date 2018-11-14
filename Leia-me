@@ -1,2 +1,2 @@
 Programa feito no R-Project para gerar amostras progressivamente censuradas tipo 2 da distribuição exponencial logarítmica.
-Pode ser usado para outras distribuições.
+Pode ser usado para outras distribuições continuas (para as discretas eu não sei ao certo vide Balakrishnan e Sandhu (1995) entre outros).
